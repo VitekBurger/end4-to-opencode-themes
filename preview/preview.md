@@ -1,0 +1,5 @@
+![](https://github.com/VitekBurger/end4-to-opencode-themes/blob/main/preview/swappy-20260712_071735.png)
+![](https://github.com/VitekBurger/end4-to-opencode-themes/blob/main/preview/swappy-20260712_071850.png)
+![](https://github.com/VitekBurger/end4-to-opencode-themes/blob/main/preview/swappy-20260712_071809.png)
+![](https://github.com/VitekBurger/end4-to-opencode-themes/blob/main/preview/swappy-20260712_071827.png)
+![](https://github.com/VitekBurger/end4-to-opencode-themes/blob/main/preview/swappy-20260712_072327.png)

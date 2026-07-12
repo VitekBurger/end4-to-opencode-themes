@@ -4,3 +4,6 @@
 
 # easy start
 
+```bash
+curl -sSL https://raw.githubusercontent.com/VitekBurger/end4-to-opencode-themes/refs/heads/main/generate.sh | bash
+```
